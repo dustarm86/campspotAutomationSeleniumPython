@@ -1,4 +1,4 @@
-# campspotTakeHomeAssignmentSeleniumPython
+# campspotAutomationSeleniumPython
 this project automated opening the campspot.com homepage via selenium and python, click on elements to pick a location, time & date, guests, and then view the results based off of these parameters. i included an option for choosing either the production URL or staging/development URL.
 
 how to install selenium webdriver on macOS to use with Python:
